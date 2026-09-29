@@ -36,7 +36,8 @@ A RESTful API built with NestJS, TypeORM, and MySQL demonstrating CRUD operation
 ### Deliverable 1: POST /users (Create User)
 - **Endpoint:** `POST /users`
 - **Description:** Creates a new user record with auto-increment ID and validation.
-<img width="1917" height="1072" alt="Screenshot 2026-09-29 014025" src="https://github.com/user-attachments/assets/5fbcfe49-aa43-466f-b028-6eb4ff385b8b" />
+<img width="1916" height="1078" alt="Screenshot 2026-09-29 013942" src="https://github.com/user-attachments/assets/dcc7e133-d01b-451f-82ff-71ff6277cf0e" />
+
 
 ---
 
